@@ -176,15 +176,6 @@ const styles = StyleSheet.create({
     fontFamily: "Roboto-400",
     fontStyle: "normal",
   },
-  icon: {
-    width: 25,
-    height: 25,
-  },
-  iconBtn: {
-    position: "absolute",
-    left: "90%",
-    top: "65%",
-  },
 });
 
 export default RegistrationScreen;
